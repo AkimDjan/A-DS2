@@ -1,2 +1,1 @@
-# A-DS2
-Home assignments for my favourite subject - Algorithms and Data Structures, semester 3, teacher - Anoshin Yuri Michaylovich
+Домашние задания по курсу Алгоритмы и структуры данных, который читается на Физтех-школе Авиационных и Цифровых Технологий (ПИШ ФАЛТ), семинарист - Аношин Юрий Михайлович, лектор - Деев Богдан Юльевич
